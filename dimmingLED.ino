@@ -32,7 +32,7 @@ void loop() {
 
     // Stay fully lit
     if (i != 1){
-     delay(stayLitRG);
+     delay(stayLitBG);
     }
 
     // Fade out
